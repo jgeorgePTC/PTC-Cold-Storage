@@ -308,6 +308,16 @@
                         },
                         "widget" : "flex-container"
                       },
+                      "ptcsbutton-21" : {
+                        "parts" : {
+                          "$" : {
+                            "$" : {
+                              "background" : "rgba(135,65,44,1)"
+                            }
+                          }
+                        },
+                        "widget" : "ptcs-button"
+                      },
                       "ptcslabel-10" : {
                         "parts" : {
                           "$" : {
@@ -348,6 +358,7 @@
                     "Area" : "UI",
                     "DisplayName" : "container-2",
                     "EnableExpandCollapse" : false,
+                    "ExpandCollapseTabLocation" : "inside",
                     "Expanded" : true,
                     "Id" : "flexcontainer-2",
                     "LastContainer" : true,
@@ -386,6 +397,7 @@
                       "Area" : "UI",
                       "DisplayName" : "container-8",
                       "EnableExpandCollapse" : false,
+                      "ExpandCollapseTabLocation" : "inside",
                       "Expanded" : true,
                       "Id" : "flexcontainer-8",
                       "LastContainer" : false,
@@ -452,6 +464,7 @@
                       "Area" : "UI",
                       "DisplayName" : "container-9",
                       "EnableExpandCollapse" : false,
+                      "ExpandCollapseTabLocation" : "inside",
                       "Expanded" : true,
                       "Id" : "flexcontainer-9",
                       "LastContainer" : true,
@@ -490,6 +503,7 @@
                         "Area" : "UI",
                         "DisplayName" : "container-23",
                         "EnableExpandCollapse" : false,
+                        "ExpandCollapseTabLocation" : "inside",
                         "Expanded" : true,
                         "Id" : "flexcontainer-23",
                         "LastContainer" : false,
@@ -529,6 +543,7 @@
                         "Area" : "UI",
                         "DisplayName" : "container-22",
                         "EnableExpandCollapse" : false,
+                        "ExpandCollapseTabLocation" : "inside",
                         "Expanded" : true,
                         "Id" : "flexcontainer-22",
                         "LastContainer" : false,
@@ -567,6 +582,7 @@
                           "Area" : "UI",
                           "DisplayName" : "container-26",
                           "EnableExpandCollapse" : false,
+                          "ExpandCollapseTabLocation" : "inside",
                           "Expanded" : true,
                           "Id" : "flexcontainer-26",
                           "LastContainer" : false,
@@ -606,6 +622,7 @@
                           "Area" : "UI",
                           "DisplayName" : "container-28",
                           "EnableExpandCollapse" : false,
+                          "ExpandCollapseTabLocation" : "inside",
                           "Expanded" : true,
                           "Id" : "flexcontainer-28",
                           "LastContainer" : false,
@@ -644,6 +661,7 @@
                             "Area" : "UI",
                             "DisplayName" : "container-29",
                             "EnableExpandCollapse" : false,
+                            "ExpandCollapseTabLocation" : "inside",
                             "Expanded" : true,
                             "Id" : "flexcontainer-29",
                             "LastContainer" : false,
@@ -735,6 +753,7 @@
                             "Area" : "UI",
                             "DisplayName" : "container-30",
                             "EnableExpandCollapse" : false,
+                            "ExpandCollapseTabLocation" : "inside",
                             "Expanded" : true,
                             "Id" : "flexcontainer-30",
                             "LastContainer" : false,
@@ -835,6 +854,7 @@
                           "Area" : "UI",
                           "DisplayName" : "container-25",
                           "EnableExpandCollapse" : false,
+                          "ExpandCollapseTabLocation" : "inside",
                           "Expanded" : true,
                           "Id" : "flexcontainer-25",
                           "LastContainer" : false,
@@ -900,6 +920,7 @@
                           "Area" : "UI",
                           "DisplayName" : "container-27",
                           "EnableExpandCollapse" : false,
+                          "ExpandCollapseTabLocation" : "inside",
                           "Expanded" : true,
                           "Id" : "flexcontainer-27",
                           "LastContainer" : false,
@@ -940,6 +961,7 @@
                         "Area" : "UI",
                         "DisplayName" : "container-24",
                         "EnableExpandCollapse" : false,
+                        "ExpandCollapseTabLocation" : "inside",
                         "Expanded" : true,
                         "Id" : "flexcontainer-24",
                         "LastContainer" : false,
@@ -980,6 +1002,7 @@
                       "Area" : "UI",
                       "DisplayName" : "container-7",
                       "EnableExpandCollapse" : false,
+                      "ExpandCollapseTabLocation" : "inside",
                       "Expanded" : true,
                       "Id" : "flexcontainer-7",
                       "LastContainer" : false,
